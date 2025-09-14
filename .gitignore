@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#model
+best_fire_model.h5
+fire_detection_cnn.h5
+fire_dataset
+fire_dataset.zip

@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+tensorflow-metal
+numpy>=1.26.0
+matplotlib
+pandas
+opencv-python
+seaborn
+scikit-learn
+Pillow
